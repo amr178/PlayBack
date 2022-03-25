@@ -5,7 +5,7 @@ PlayBack is a Film Community Application with talk gathering where you'll examin
 
 
 ## Instructions
-- Clone repo :  git clone https://github.com/khadyothan/PlayBack.git
+- Clone repo 
 - Change into PlayBack directory: cd PlayBack
 - Install packages : npm install 
 - Run React server : npm start
